@@ -1,0 +1,6 @@
+[submodule "shopify-custom-app-flow"]
+	path = shopify-custom-app-flow
+	url = https://github.com/Ahmad-shopify-dev/shopify-custom-app-flow.git
+[submodule "shopify-webhook-via-admin-link"]
+	path = shopify-webhook-via-admin-link
+	url = https://github.com/Ahmad-shopify-dev/shopify-webhook-via-admin-link.git
