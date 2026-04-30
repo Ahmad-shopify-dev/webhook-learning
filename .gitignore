@@ -35,3 +35,6 @@ Thumbs.db
 **/database/*.json
 **/tmp/
 **/temp/
+
+shopify-webhook
+shopify-custom-app
